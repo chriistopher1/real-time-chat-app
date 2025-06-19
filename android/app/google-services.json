@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8602447224",
+    "project_id": "fluxchat-6e6d3",
+    "storage_bucket": "fluxchat-6e6d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8602447224:android:bc438a6d9250a2c44fac8d",
+        "android_client_info": {
+          "package_name": "com.example.realtime_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGW_yPWVRAehtHecYitg24PEfljFfR8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
