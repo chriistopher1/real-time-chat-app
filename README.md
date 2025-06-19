@@ -1,3 +1,5 @@
+Demo :  https://flux-realtime-chat-app.netlify.app/ 
+
 # 💬 Real-Time Chat App
 
 A sleek, modern real-time chat application built with Flutter and powered by Firebase. This app supports live messaging, , and cloud data sync — offering a fast and interactive chat experience across devices.
